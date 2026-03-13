@@ -27,3 +27,5 @@ await interaction.reply(`👢 ${member.user.tag} has been kicked.\nReason: ${rea
 }
 
 };
+
+// Might not work
